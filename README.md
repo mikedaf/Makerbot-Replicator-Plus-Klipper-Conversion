@@ -94,5 +94,3 @@ https://www.amazon.com/Teflon-tubing-Filament-Printer-Tech/dp/B073RDFTDV/ref=sr_
 
 Heatset Inserts
 https://www.amazon.com/EEEEE-Threaded-Assortment-Printing-Injection/dp/B0B47MZ1SG/ref=sr_1_1_sspa?crid=9RDYTKVYLZVU&keywords=threaded%2Binserts&qid=1684185645&s=industrial&sprefix=thread%2Cindustrial%2C109&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVjlWTEhGNFBKSjQ3JmVuY3J5cHRlZElkPUEwNjEwMTg5MTRQTzYzVVQxME5OWSZlbmNyeXB0ZWRBZElkPUEwMzQwNzU4MllHOTIxS080V1Y2UiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1
-
-This build uses M3 M2.5 and M2 screws, I used socket head ones, but any should be fine. Just be careful not to split the parts if you use countersunk screws.
